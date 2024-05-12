@@ -45,6 +45,8 @@ Get ready to unlock insights with our comprehensive report and dynamic dashboard
 3. **Building the Churn Model:** Leverage PyCaret to build and train a sophisticated churn prediction model.
 4. **Exporting Data to BigQuery:** Store processed data and model results in BigQuery for easy access and future analysis.
 5. **Building the Dashboard:** Craft an intuitive and visually stunning dashboard using Looker Studio to visualize churn insights with impact.
+6. 
+![Dashboard](https://github.com/AbhishekKumar0313/Churn-Data-Analysis/blob/main/Screenshot%202024-05-12%20173023.png)
 
 ## Additional Notes:
 - Elevate your retention strategy with data-driven insights.
