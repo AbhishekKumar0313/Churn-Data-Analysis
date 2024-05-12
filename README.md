@@ -33,7 +33,7 @@ Get ready to unlock insights with our comprehensive report and dynamic dashboard
 1. **Train:** Train the machine learning model on 70% of the existing employee dataset (approximately 15,000 employees).
 2. **Test:** Test and fine-tune the model for accuracy using the remaining 30% of the dataset.
 3. **Predict:** Utilize the optimized machine learning model to predict which employees in our pilot program are likely to churn.
-![Work Flow]([link_to_your_image](https://github.com/AbhishekKumar0313/Churn-Data-Analysis/blob/main/Screenshot%202024-05-12%20172317.png))
+![]([https://github.com/AbhishekKumar0313/Churn-Data-Analysis/blob/main/Screenshot%202024-05-12%20172317.png])
 ## Recommendations:
 - **Employee Recognition Program:** Foster a culture of appreciation and recognition to boost morale and retention.
 - **Professional Development Initiatives:** Invest in employees' growth and skill development to enhance job satisfaction and loyalty.
